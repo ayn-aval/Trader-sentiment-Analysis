@@ -1,4 +1,4 @@
-# Trader Sentiment Analysis — HyperLiquid
+# Trader Sentiment Analysis 
 
 > **Objective:** Analyze how market sentiment (Fear / Greed Index) affects trader behaviour and performance on HyperLiquid, and produce actionable trading strategies backed by data.
 
